@@ -1,0 +1,1 @@
+# Prank-your-friends-with-this-chatgpt-promt
