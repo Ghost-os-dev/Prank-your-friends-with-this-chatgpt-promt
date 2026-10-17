@@ -1,4 +1,4 @@
-# Prank-your-friends-with-this-chatgpt-promt
+# Prank-your-friends-with-this-chatgpt-promt (only if they use it to code alot of stuff for them)
 # Explanation of the Coding Restriction — No Overrides
 
 This instruction establishes a teaching-first rule for all software development requests.
